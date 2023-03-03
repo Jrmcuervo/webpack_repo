@@ -22,7 +22,7 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [webpack_repo] <a name="about-project"></a>
+# 📖 webpack_repo <a name="about-project"></a>
 
 **[webpack_repo]** This is a project to practice an understand webpack.
 
